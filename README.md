@@ -3,7 +3,7 @@
 <h2 align="center">Full Stack Developer 😁</h2>
 <h4> I graduated from high school with an economic orientation, then I entered the engineering faculty of the UNL (UNIVERSIDAD NACIONAL DEL LITORAL) where I learned the basics of programming and how to implement them with microcontrollers with C++, I am currently not studying ING in Informatics in which I acquired knowledge of Object Oriented Programming, thanks to this career I was able to find what I am so passionate about.</h4>
 <h4>Currently I graduated from the Soy Henry Bootcamp as a Full Stack Developer 🧑‍🎓, in which I spent more than 800 hours in code.</h4>
-<h4> I consider myself a self-taught person, I'm always looking to learn much more about this world of programming that is so big. My career in Information Systems Engineering led me to strengthen my programming logic, which is why I consider that one of my strongest skills is analytical thinking, as well as contributing my knowledge so that the user experience is more friendly.< /h4>
+<h4> I consider myself a self-taught person, I'm always looking to learn much more about this world of programming that is so big. My career in Information Systems Engineering led me to strengthen my programming logic, which is why I consider that one of my strongest skills is analytical thinking, as well as contributing my knowledge so that the user experience is more friendly.</h4>
 
 - I am interested in everything related to web development.
 
