@@ -19,7 +19,7 @@
 🎖️ I am currently learning: MongoDB, Typescript,
 😁 I'm interested in learning: Back-end Technologies
 
-<h1 align="center">Mis skills</h1>
+<h1 align="center">My skills</h1>
 <p align="center"> 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" /></a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
@@ -51,13 +51,19 @@
 <a href="https://devdocs.io/css/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"  />
     </a>
+ <h1 align="center">My proyects</h1>
+ 
+<p align='center'>
+<a href="https://pi-food-tino-russo.vercel.app/">
+ <img width="30%" src="./Images/PI-FOOD.png"/>
+ </a>
+ <a href="https://pg-rgb-store-three.vercel.app/">
+ <img width="30%" src="./Images/RGB-STORE.png"/>
+ </a>
 
-<h3 align="center">Contact me:</h3>
+<h1 align="center">Contact me:</h1>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/valentinorusso/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Valentino Russo" height="30" width="40" /></a>
 <a href="mailto:valentinorusso2002@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Valentino Russo" height="40" width="40" /></a>
 </p>
-
-<p><a></a></p>
-           ---------------------------------------------------------------------------
