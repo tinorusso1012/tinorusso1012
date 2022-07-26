@@ -55,12 +55,15 @@
  
 <p align='center'>
 <a href="https://pi-food-tino-russo.vercel.app/">
+ Individual Proyect of SoyHenry
  <img width="30%" src="./Images/PI-FOOD.png"/>
  </a>
  <a href="https://pg-rgb-store-three.vercel.app/">
+  Final Group Proyect of SoyHenry
  <img width="30%" src="./Images/RGB-STORE.png"/>
  </a>
   <a href="https://netflix-clone-tinorusso1012.vercel.app">
+   Individual Proyect to Practice
  <img width="30%" src="./Images/TinoFlix.png"/>
  </a>
 
