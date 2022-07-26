@@ -64,7 +64,10 @@
   <a href="https://netflix-clone-tinorusso1012.vercel.app">
  <img width="30%" src="./Images/TinoFlix.png"/>
  </a>
-  Individual Proyect to Practice --- Final Group Proyect of SoyHenry -- Individual Proyect to Practice
+ <br/>
+ 
+ 
+  Individual Proyect of SoyHenry --- Final Group Proyect of SoyHenry -- Individual Proyect to Practice
 
 <h1 align="center">Contact me:</h1>
 
