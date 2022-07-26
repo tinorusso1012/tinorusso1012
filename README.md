@@ -54,18 +54,18 @@
  <h1 align="center">My proyects</h1>
  
 <p align='center'>
+  Individual Proyect of SoyHenry
 <a href="https://pi-food-tino-russo.vercel.app/">
  <img width="30%" src="./Images/PI-FOOD.png"/>
- Individual Proyect of SoyHenry
  </a>
     Final Group Proyect of SoyHenry
  <a href="https://pg-rgb-store-three.vercel.app/">
  <img width="30%" src="./Images/RGB-STORE.png"/>
  
  </a>
+       Individual Proyect to Practice
   <a href="https://netflix-clone-tinorusso1012.vercel.app">
  <img width="30%" src="./Images/TinoFlix.png"/>
-      Individual Proyect to Practice
  </a>
 
 <h1 align="center">Contact me:</h1>
