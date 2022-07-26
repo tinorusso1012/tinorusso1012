@@ -58,9 +58,10 @@
  <img width="30%" src="./Images/PI-FOOD.png"/>
  Individual Proyect of SoyHenry
  </a>
+    Final Group Proyect of SoyHenry
  <a href="https://pg-rgb-store-three.vercel.app/">
  <img width="30%" src="./Images/RGB-STORE.png"/>
-    Final Group Proyect of SoyHenry
+ 
  </a>
   <a href="https://netflix-clone-tinorusso1012.vercel.app">
  <img width="30%" src="./Images/TinoFlix.png"/>
