@@ -66,9 +66,9 @@
  </a>
  <br/>
  
- 
+ <p align="center"> 
   Individual Proyect of SoyHenry --- Final Group Proyect of SoyHenry -- Individual Proyect to Practice
-
+</p>
 <h1 align="center">Contact me:</h1>
 
 <p align="center">
