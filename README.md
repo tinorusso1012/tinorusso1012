@@ -57,7 +57,6 @@
 <a href="https://pi-food-tino-russo.vercel.app/">
  <img width="30%" src="./Images/PI-FOOD.png"/>
  </a>
-    Final Group Proyect of SoyHenry
  <a href="https://pg-rgb-store-three.vercel.app/">
  <img width="30%" src="./Images/RGB-STORE.png"/>
  
