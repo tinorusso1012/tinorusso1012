@@ -60,6 +60,9 @@
  <a href="https://pg-rgb-store-three.vercel.app/">
  <img width="30%" src="./Images/RGB-STORE.png"/>
  </a>
+  <a href="https://netflix-clone-tinorusso1012.vercel.app">
+ <img width="30%" src="./Images/TinoFlix.png"/>
+ </a>
 
 <h1 align="center">Contact me:</h1>
 
