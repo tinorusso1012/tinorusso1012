@@ -54,7 +54,6 @@
  <h1 align="center">My proyects</h1>
  
 <p align='center'>
-  Individual Proyect of SoyHenry
 <a href="https://pi-food-tino-russo.vercel.app/">
  <img width="30%" src="./Images/PI-FOOD.png"/>
  </a>
@@ -63,10 +62,10 @@
  <img width="30%" src="./Images/RGB-STORE.png"/>
  
  </a>
-       Individual Proyect to Practice
   <a href="https://netflix-clone-tinorusso1012.vercel.app">
  <img width="30%" src="./Images/TinoFlix.png"/>
  </a>
+  Individual Proyect to Practice --- Final Group Proyect of SoyHenry -- Individual Proyect to Practice
 
 <h1 align="center">Contact me:</h1>
 
